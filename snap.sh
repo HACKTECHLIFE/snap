@@ -31,8 +31,8 @@ echo '
                          _> | |(_||v1.0 '|lolcat
 echo 
 
-echo -e "$red                      ▶ Coded by$grn N17RO$red ◀$rset"
-echo -e "$red                 ⫸$ylo youtube.com/noobhackers$red ⫷$rset"
+echo -e "$red                      ▶ Coded by$grn HACKTECMAN$red ◀$rset"
+echo -e "$red                 ⫸$ylo youtube.com/HACKTECHLIFE$red ⫷$rset"
 echo 
 # Functions
 echo -e "$red              [NOTE:- NEED INTERNET CONNECTION]$rset"
