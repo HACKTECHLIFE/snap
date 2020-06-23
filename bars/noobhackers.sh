@@ -1,7 +1,7 @@
 #!/bin/bash
 echo $red 
  echo ""----------------------------------------------------------------------------- ""
-echo " This Script is written by nitro now start"
+echo " This Script is written by HACKTECHMAN now start"
 echo "---------------------------------------------------------------------------------"
 
 echo "007"
@@ -11,7 +11,7 @@ echo "."
 
 echo  "#####################################"
 echo   " we are anynomous"               
- echo   " we are noobhackers ok "                                                                    
+ echo   " we are HACKTECHLIFE ok "                                                                    
 echo   "####################################"
 
 echo "007"
